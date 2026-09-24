@@ -135,7 +135,7 @@ iOS常见使用方式离不开 App Store 里的特定客户端。
 
 速网云当前这组设备覆盖比较直接。
 
-[查看速网云 →](https://suwangyun.com/)
+[查看速网云 →](https://suwangyun.top/)
 
 ### Windows/macOS/iOS
 
